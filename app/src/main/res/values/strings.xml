@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">GuessNumber</string>
+    <string name="txtName">Nombre:</string>
+    <string name="edNombre">nombre</string>
+    <string name="txtIntentos">Intentos:</string>
+    <string name="edNumeroMaximoIntentos">Escribe un número</string>
+    <string name="btPlay">¡A jugar!</string>
+    <string name="btComprobar">Comprobar</string>
+    <string name="edNumero">Número</string>
+    <string name="txtNumero">Numero:</string>
+    <string name="btVolverAIntentar">Volver a Intentar</string>
+    <string name="MensajeMenorPlayActivity">Es menor</string>
+    <string name="MensajeMayorPlayActivity">Es mayor</string>
+    <string name="ErrorCamposConfigActivity">Asegúrese de que todos los campos estén completados correctamente</string>
+    <string name="ErrorFormatExceptionCofigActivity">ERROR: Formato no válido</string>
+    <string name="ErrorCampoPlayActivity">Escribe un número</string>
+    <string name="MensajeAcertarEndPlayActivity">"Has ganado, numero de intentos: "</string>
+    <string name="MensajeFallarEndPlayActivity">"Has perdido, el número era: "</string>
+</resources>

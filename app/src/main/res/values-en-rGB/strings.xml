@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GuessNumber</string>
+    <string name="txtName">Name:</string>
+    <string name="edNombre">name</string>
+    <string name="txtIntentos">Attempts:</string>
+    <string name="edNumeroMaximoIntentos">Write a number</string>
+    <string name="btPlay">!Let\'s Play!</string>
+    <string name="btComprobar">Check</string>
+    <string name="edNumero">Number</string>
+    <string name="txtNumero">Number:</string>
+    <string name="btVolverAIntentar">Try Again</string>
+    <string name="MensajeMenorPlayActivity">Is lesser</string>
+    <string name="MensajeMayorPlayActivity">Is greater</string>
+    <string name="ErrorCamposConfigActivity">Please make sure all fields are filled in correctly</string>
+    <string name="ErrorFormatExceptionCofigActivity">"ERROR: invalid format "</string>
+    <string name="ErrorCampoPlayActivity">Write a number</string>
+    <string name="MensajeAcertarEndPlayActivity">"You won, number of attemps: "</string>
+    <string name="MensajeFallarEndPlayActivity">"You lost, the number was: "</string>
+</resources>
