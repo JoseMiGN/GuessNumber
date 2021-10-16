@@ -6,11 +6,9 @@
 - [Activities](#Activity)
 
 #### Proyecto finalizado
-
-![imagen1](https://github.com/JoseMiGN/GuessNumber/img/Proyecto_Finalizado_1.jpg)
-![imagen2](https://github.com/JoseMiGN/GuessNumber/img/Proyecto_Finalizado_2.jpg)
-![imagen3](https://github.com/JoseMiGN/GuessNumber/img/Proyecto_Finalizado_3.jpg)
-![imagen4](https://github.com/JoseMiGN/GuessNumber/img/Proyecto_Finalizado_4.jpg)
+<p align="center">
+<img src="https://github.com/JoseMiGN/GuessNumber/blob/master/img/Proyecto_Finalizado_1.jpg" width="25%"><img src="https://github.com/JoseMiGN/GuessNumber/blob/master/img/Proyecto_Finalizado_2.jpg" width="25%"><img src="https://github.com/JoseMiGN/GuessNumber/blob/master/img/Proyecto_Finalizado_3.jpg" width="25%"><img src="https://github.com/JoseMiGN/GuessNumber/blob/master/img/Proyecto_Finalizado_4.jpg" width="25%">
+</p>
 
 #### Objetivo del proyecto
 
@@ -30,15 +28,15 @@ viewBinding {
 
 ##### activity_config.xml
 
-![imagen](https://github.com/JoseMiGN/GuessNumber/img/Layout_activity_config.jpg)
+![imagen](https://github.com/JoseMiGN/GuessNumber/blob/master/img/Layout_activity_config.PNG)
 
 ##### activity_end_play.xml
 
-![imagen](https://github.com/JoseMiGN/GuessNumber/img/Layout_activity_end_play.jpg)
+![imagen](https://github.com/JoseMiGN/GuessNumber/blob/master/img/Layout_activity_end_play.PNG)
 
 ##### activity_play.xml
 
-![imagen](https://github.com/JoseMiGN/GuessNumber/img/Layout_activity_play.jpg)
+![imagen](https://github.com/JoseMiGN/GuessNumber/blob/master/img/Layout_activity_play.PNG)
 
 
 #### Clases POJO
